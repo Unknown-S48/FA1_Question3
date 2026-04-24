@@ -1,0 +1,17 @@
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\bin\Debug\net10.0-windows\Question3_FA1.exe
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\bin\Debug\net10.0-windows\Question3_FA1.deps.json
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\bin\Debug\net10.0-windows\Question3_FA1.runtimeconfig.json
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\bin\Debug\net10.0-windows\Question3_FA1.dll
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\bin\Debug\net10.0-windows\Question3_FA1.pdb
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.frmFPL.resources
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.csproj.GenerateResource.cache
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.AssemblyInfoInputs.cache
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.AssemblyInfo.cs
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.sourcelink.json
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.dll
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\refint\Question3_FA1.dll
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.pdb
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\Question3_FA1.genruntimeconfig.cache
+C:\Users\Unknown\Documents\GitHub\FA1_Question3\Question3_FA1\Question3_FA1\obj\Debug\net10.0-windows\ref\Question3_FA1.dll
