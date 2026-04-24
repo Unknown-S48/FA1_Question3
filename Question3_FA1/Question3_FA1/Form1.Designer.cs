@@ -33,6 +33,7 @@
             lblFeedback = new Label();
             txtInput = new TextBox();
             grpMain = new GroupBox();
+            lblTitel = new Label();
             lstLanguages = new ListBox();
             grpMain.SuspendLayout();
             SuspendLayout();
@@ -67,14 +68,20 @@
             // 
             // txtInput
             // 
+            txtInput.AccessibleDescription = "";
+            txtInput.AccessibleName = "";
             txtInput.Location = new Point(30, 202);
             txtInput.Name = "txtInput";
+            txtInput.PlaceholderText = "Enter programming language";
             txtInput.Size = new Size(492, 23);
             txtInput.TabIndex = 4;
             txtInput.Tag = "";
+            txtInput.TextChanged += txtInput_TextChanged;
             // 
             // grpMain
             // 
+            grpMain.BackColor = SystemColors.ControlLightLight;
+            grpMain.Controls.Add(lblTitel);
             grpMain.Controls.Add(lstLanguages);
             grpMain.Controls.Add(btnAdd);
             grpMain.Controls.Add(txtInput);
@@ -85,7 +92,18 @@
             grpMain.Size = new Size(551, 301);
             grpMain.TabIndex = 6;
             grpMain.TabStop = false;
-            grpMain.Text = "My Favourite Programming Languages";
+            grpMain.Enter += grpMain_Enter;
+            // 
+            // lblTitel
+            // 
+            lblTitel.AutoSize = true;
+            lblTitel.Font = new Font("Segoe UI", 12F);
+            lblTitel.Location = new Point(128, 18);
+            lblTitel.Name = "lblTitel";
+            lblTitel.Size = new Size(280, 21);
+            lblTitel.TabIndex = 6;
+            lblTitel.Text = "My Favourite Programming Languages";
+            lblTitel.Click += label1_Click;
             // 
             // lstLanguages
             // 
@@ -94,6 +112,7 @@
             lstLanguages.Name = "lstLanguages";
             lstLanguages.Size = new Size(492, 154);
             lstLanguages.TabIndex = 5;
+            lstLanguages.SelectedIndexChanged += lstLanguages_SelectedIndexChanged;
             // 
             // frmFPL
             // 
@@ -115,5 +134,6 @@
         private TextBox txtInput;
         private GroupBox grpMain;
         private ListBox lstLanguages;
+        private Label lblTitel;
     }
 }
